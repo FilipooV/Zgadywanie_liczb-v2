@@ -1,0 +1,11 @@
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\bin\Debug\Zgadywanie_liczb.exe.config
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\bin\Debug\Zgadywanie_liczb.exe
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\bin\Debug\Zgadywanie_liczb.pdb
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.csproj.AssemblyReference.cache
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.csproj.SuggestedBindingRedirects.cache
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.Properties.Resources.resources
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.csproj.GenerateResource.cache
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.csproj.CoreCompileInputs.cache
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.exe
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.pdb
+S:\Filip Trzmiel\Zgadywanie_liczb\Zgadywanie_liczb\obj\Debug\Zgadywanie_liczb.Zgadywanka.resources
